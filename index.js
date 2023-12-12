@@ -133,7 +133,9 @@ for (var i = 0; i < changesArr.length; i++) {
   }
 }
 
-console.log("Greatest Increase in Profits: " + maxString + "($" + max + ")");
+console.log(
+  "Greatest Increase in Profits/Losses: " + maxString + "($" + max + ")"
+);
 
 // The greatest decrease in losses (date and difference in the amounts) over the entire period
 
@@ -146,4 +148,6 @@ for (var i = 0; i < changesArr.length; i++) {
   }
 }
 
-console.log("Greatest Decrease in Profits:  " + minString + "($" + min + ")");
+console.log(
+  "Greatest Decrease in Profits/Losses:  " + minString + "($" + min + ")"
+);
