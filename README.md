@@ -15,8 +15,8 @@ This JavaScript project involves analysing a financial dataset to calculate key 
 
 To view the financial analysis, follow these instructions:
 
-1. Click on this link to view the live application
-2. Open your browser's Developer Tools by right-clicking anywhere on the webpage and selecting "Inspect"
+1. Click on this [link](https://nurudinadow.github.io/Console-Finances/) to view the live application.
+2. Open your browser's Developer Tools by right-clicking anywhere on the webpage and selecting "Inspect".
 3. Navigate to the "Console" tab within the Developer Tools.
 
 **Screenshot**
